@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\11.Polymorphism\01.MathOperation\bin\Debug\netcoreapp2.0\01.MathOperation.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\11.Polymorphism\01.MathOperation\bin\Debug\netcoreapp2.0\01.MathOperation.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\11.Polymorphism\01.MathOperation\bin\Debug\netcoreapp2.0\01.MathOperation.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\11.Polymorphism\01.MathOperation\bin\Debug\netcoreapp2.0\01.MathOperation.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\11.Polymorphism\01.MathOperation\bin\Debug\netcoreapp2.0\01.MathOperation.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\11.Polymorphism\01.MathOperation\obj\Debug\netcoreapp2.0\01.MathOperation.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\11.Polymorphism\01.MathOperation\obj\Debug\netcoreapp2.0\01.MathOperation.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\11.Polymorphism\01.MathOperation\obj\Debug\netcoreapp2.0\01.MathOperation.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\11.Polymorphism\01.MathOperation\obj\Debug\netcoreapp2.0\01.MathOperation.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\11.Polymorphism\01.MathOperation\obj\Debug\netcoreapp2.0\01.MathOperation.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\11.Polymorphism\01.MathOperation\obj\Debug\netcoreapp2.0\01.MathOperation.pdb
